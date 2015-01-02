@@ -1,4 +1,4 @@
-Machine-Learning
-================
+ML
+==
 
-Classifying a data set using Machine Learning Algorithms
+Machine Learning project for AI. Decision Trees, Bayes Classifier, K means Classifier.
